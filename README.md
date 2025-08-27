@@ -11,8 +11,9 @@ Sobrescrita de métodos
 ---
 
 ## Desafio 3
-Exemplo de prompt para uma LLM:
+**Exemplo de prompt para uma LLM**
 
+```text
 Escrevi um código e deu erro.
 O erro foi o seguinte:
 (erro)
